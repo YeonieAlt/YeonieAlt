@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on a chrome extension for students, with all the tools which are usually only found when combining multiple extensions.
 - 📫 How to reach me 
           - Discord (easiest and fastest): @yeonie#6455
+          - Twitter (easy)
 
 <!---
 YeonieAlt/YeonieAlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
